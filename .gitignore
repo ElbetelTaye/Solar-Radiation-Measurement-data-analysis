@@ -3,10 +3,6 @@
 *.pyo
 __pycache__/
 
-# Ignore virtual environment
-venv/
-
-
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
