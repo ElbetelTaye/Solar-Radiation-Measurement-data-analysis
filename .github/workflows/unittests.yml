@@ -4,9 +4,9 @@ name: Run Unit Tests
 
 on:
   push:
-    branches: [ main, task-1 ]  # Specify the branches you want the tests to run on
+    branches: [ main, task1 ]  # Specify the branches you want the tests to run on
   pull_request:
-    branches: [ main, task-1 ]
+    branches: [ main, task1 ]
 
 jobs:
   test:
