@@ -1,35 +1,7 @@
-# Ignore Python bytecode files
-*.pyc
-*.pyo
-__pycache__/
-
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Ignore IDE or editor specific files
-*.swp
-*.swo
 
 #ignore bash_history
 .bash_history
 
-# Ignore system files
-.DS_Store
-Thumbs.db
-
 # Ignore local environment configurations
-.local_env
+./venv
 
-# Ignore log files
-*.log
-
-# Ignore compiled and build files
-build/
-dist/
-*.egg-info/
-*.egg
-
-# Ignore test coverage reports
-coverage/
-*.coverage
-*.cover
