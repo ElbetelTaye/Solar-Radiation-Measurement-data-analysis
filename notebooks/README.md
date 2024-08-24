@@ -1,8 +1,4 @@
-Here is a sample `README.md` file template for your GitHub repository, based on the information provided:
-
----
-
-# Data Analysis of Sierra Leone, Togo, and Benin
+git # Data Analysis of Sierra Leone, Togo, and Benin
 
 ## Overview
 
