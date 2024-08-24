@@ -1,5 +1,3 @@
-git # Data Analysis of Sierra Leone, Togo, and Benin
-
 ## Overview
 
 This repository contains data analysis notebooks for the countries of Sierra Leone, Togo, and Benin. The analysis involves exploratory data analysis (EDA), data cleaning, and visualization to gain insights from the datasets related to each country.
